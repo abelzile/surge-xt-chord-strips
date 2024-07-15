@@ -2895,7 +2895,7 @@ sendOSC("/q/all_mods")]]></value>
 <arguments>
 <partial>
 <type>CONSTANT</type>
-<conversion>STRING</conversion>
+<conversion>FLOAT</conversion>
 <value><![CDATA[50]]></value>
 <scaleMin>0</scaleMin>
 <scaleMax>1</scaleMax>
